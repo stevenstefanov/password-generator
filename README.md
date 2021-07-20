@@ -1,8 +1,16 @@
 # Password-Generator
 
-## What is the project?
+## Project Description
 
 This project is a simple password generator. The user has an option of selections between lowercase letters, uppercase letters, numbers, and/or special characters.
+
+## Project Screenshot  
+
+![Project Screenshot](assets/images/screenshot_stevenstefanov.png)
+ 
+## Link to Deployed Project  
+
+https://stevenstefanov.github.io/password-generator/
 
 ## What were the challenges?
 
@@ -23,14 +31,6 @@ I learned a lot more about computer logic and flow of code. It was really benefi
 ## What makes this project stand out?
 
 This project is a great example of simple yet very effective password generator.
-
-## Project Screenshot  
-
-![Project Screenshot](assets/images/screenshot_stevenstefanov.png)
- 
-## Link to Deployed Project  
-
-https://stevenstefanov.github.io/Password-Generator/
 
 ## Instalation
 
