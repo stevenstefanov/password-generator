@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a simple password generator. The user has an option of selections between lowercase letters, uppercase letters, numbers, and/or special characters.
+This project is a simple password generator. The user has a series of options to select from between lowercase letters, uppercase letters, numbers, and/or special characters.
 
 ## Project Screenshot  
 
@@ -14,7 +14,7 @@ https://stevenstefanov.github.io/password-generator/
 
 ## What were the challenges?
 
-One challenge I faced were how to add the different options which were selected to one string which would be randomized later. Another one was if the user's input for password lengh was outside of the scope two times in a row and then the cancel button was pressed, the remaining criteria selections would pop up. This was solved by including those prompts under the if else statatements regarding the length and validity of input.
+One challenge faced was how to add the different options. They were selected to one string which would be randomized later. Another challenge was if the user's input for password lengh was outside of the scope two times in a row and then the cancel button was pressed, the remaining criteria selections would pop up. This was solved by including those prompts under the if else statatements regarding the length and validity of input.
 
 ## What was updated?
 
