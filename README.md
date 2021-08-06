@@ -12,25 +12,21 @@ This project is a simple password generator. The user has a series of options to
 
 https://stevenstefanov.github.io/password-generator/
 
-## What were the challenges?
-
-One challenge faced was how to add the different password criteria options. They were selected to one string which would be randomized later. Another challenge was if the user's input for a password lengh was outside of the scope two times in a row and then the cancel button was pressed, the remaining criteria selections would pop up. This was solved by including prompts under the `if/else` statatements regarding the length and validity of input.
-
-## What was updated?
-
-The project's button was inoperable at the beginning. Functionality to the button was added which would trigger a series of prompts and alerts. These would eventually result in a password generating which met the user's criteria.
-
-## Why did I decide to do this project?
+## Background
 
 This project was really interesting to develop. I really wanted to explore the different math functions involved, how `if/else` statements could be used to navigate user input, and `for loops` can be used in a very practical way.
 
-## What I learned in the process?
+## Challenges
+
+One challenge faced was how to add the different password criteria options. They were selected to one string which would be randomized later. Another challenge was if the user's input for a password lengh was outside of the scope two times in a row and then the cancel button was pressed, the remaining criteria selections would pop up. This was solved by including prompts under the `if/else` statatements regarding the length and validity of input.
+
+## Changes Made
+
+The project's button was inoperable at the beginning. Functionality to the button was added which would trigger a series of prompts and alerts. These would eventually result in a password generating which met the user's criteria.
+
+## Learnings
 
 I learned a lot more about computer logic and flow of code. It was really beneficial seeing how `if/else` statements work.
-
-## What makes this project stand out?
-
-This project is a great example of a simple yet very effective password generator.
 
 ## Usage
 
